@@ -292,3 +292,4 @@ Para manter a qualidade do pipeline, todo código deve respeitar:
 ---
 
 *Projeto desenvolvido na disciplina de Big Data for Finance pelo Prof. Ivan Ribeiro Mello.*
+Modificado por João Vargas
